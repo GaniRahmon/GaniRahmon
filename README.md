@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="left"> Hey there, I'm Gani Rahmon 👋 </h1>
 
-<!--
-**GaniRahmon/GaniRahmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+   <a href="https://ganirahmon.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/-toubal.com-black?style=flat-square&logo=website&logoColor=white&link=https://ganirahmon.github.io/"></a>
+   <a href="www.linkedin.com/in/ganirahmon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-imadtoubal-black?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ganirahmon/"></a>
+   <a href="mailto:gani.rahmon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-imad.toubal@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gani.rahmon@gmail.com"></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">  I am a Ph.D candidate interested in deep learning, computer vision for surveillance and medical applications. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- --- -->
+
+<!-- <a href="https://dewith.co/" >
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+</a> -->
